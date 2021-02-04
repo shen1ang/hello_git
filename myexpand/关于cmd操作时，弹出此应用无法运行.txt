@@ -1,4 +1,4 @@
-1���ҵ�cmd.exe����һ����C��windowsĿ¼�£�system32Ŀ¼�£�
-2��ʹ�ù���Ա���ݴ�������ʾ��
-3��ִ������Ҫ�ĳ���
+﻿1、找到cmd.exe程序（一般在C盘windows目录下，system32目录下）
+2、使用管理员身份打开命令提示符
+3、执行你需要的程序
 
