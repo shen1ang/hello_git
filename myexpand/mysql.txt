@@ -1,0 +1,1 @@
+my.ini文件-------mysql中和bin目录同级的my.ini，里面可以配置mysql服务的端口号

@@ -1,0 +1,4 @@
+netstat -ano|findstr 端口号 --------- 查看端口号
+net start 服务 ---------------------- 启动服务
+taskkill /f /t /im 进程号 ----------- 关闭进程
+
